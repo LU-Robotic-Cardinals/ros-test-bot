@@ -1,0 +1,16 @@
+Invoking command in '/run/media/nixuser/76E8-CACF/roscode/ros-test-bot/build/my_bot': _=/nix/store/wdap4cr3bnm685f27y9bb6q5b6q18msl-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" /nix/store/994klz9qlxkyp5p84psdci6n66za7ggr-python3.12-cmake-3.31.3/bin/cmake --build /run/media/nixuser/76E8-CACF/roscode/ros-test-bot/build/my_bot -- -j8 -l8
+Invoked command in '/run/media/nixuser/76E8-CACF/roscode/ros-test-bot/build/my_bot' returned '1': _=/nix/store/wdap4cr3bnm685f27y9bb6q5b6q18msl-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" /nix/store/994klz9qlxkyp5p84psdci6n66za7ggr-python3.12-cmake-3.31.3/bin/cmake --build /run/media/nixuser/76E8-CACF/roscode/ros-test-bot/build/my_bot -- -j8 -l8
